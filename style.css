@@ -98,10 +98,6 @@ svg::after {
   color: black;
 }
 
-.footer {
-  background-color: rgb(107, 113, 113);
-}
-
 .main-hot:hover {
   border: 1px solid white;
   padding: 10px;
